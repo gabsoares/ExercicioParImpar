@@ -11,11 +11,11 @@ do
     {
         if (numInicial % 2 == 0)
         {
-            Console.WriteLine($"Valor par: {numInicial}");
+            Console.WriteLine($"Valores pares: {numInicial}");
         }
         else
         {
-            Console.WriteLine($"Valor impar: {numInicial}");
+            Console.WriteLine($"Valores impares: {numInicial}");
         }
     }
     else if (numInicial > numFinal)
